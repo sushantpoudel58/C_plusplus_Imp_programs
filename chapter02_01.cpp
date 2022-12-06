@@ -64,7 +64,6 @@ class C
     friend void large(A,B,C);
 };
 
-
 void large(A ob1, B ob2, C ob3)
 {
     
